@@ -1,4 +1,8 @@
-﻿FN Clarivate Analytics Web of Science
+##Raw bibliometric data from Pardo et al. The interplay between terrestrial organic matter and benthic macrofauna: framework, synthesis and perspectives. Ecosphere
+##Data collection and categorisation is detailed in the subtopic "Bibliographic analysis and systematic mapping" and Appendix 1
+
+
+FN Clarivate Analytics Web of Science
 VR 1.0
 
 PT J
